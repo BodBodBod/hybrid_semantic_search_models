@@ -15,7 +15,7 @@
 
 ### `model_quality.py`
 
-- `grid_search_weights()` — перебор весов (`α`, `β`, `γ`) для гибридной модели с целью максимизации метрики `Recall@5`;
+- `grid_search_weights()` — перебор весов `α`, `β`, `γ` для гибридной модели с целью максимизации метрики `Recall@5`;
 - `make_recall_function()` — функция, вычисляющая `Recall@k` для заданной трансформерной модели `TransformerRetriever`.
 
 ### `pipline_functions.py`
