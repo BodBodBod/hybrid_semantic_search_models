@@ -26,7 +26,7 @@
 ### `plotting.py`
 
 - Функция для визуализации зависимости `Recall@5` от весов `α`, `β`, `γ` с помощью 3D-графиков для визуального анализа.
-<img src="https://github.com/BodBodBod/diploma/blob/main/python_project/experiments_results/bert-base-multilingual-cased.png?raw=true" style="width:40%; max-width:100%;" alt="Пример визуализации для модели bert-base-multilingual-cased">
+<img src="https://github.com/BodBodBod/diploma/blob/main/python_project/experiments_results/bert-base-multilingual-cased.png?raw=true" style="width:60%; max-width:100%;" alt="Пример визуализации для модели bert-base-multilingual-cased">
 
 ---
 
